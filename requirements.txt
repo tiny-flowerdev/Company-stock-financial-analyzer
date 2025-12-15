@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-openai
+yfinance
+pandas
+numpy
+matplotlib
+fpdf
+python-dotenv
