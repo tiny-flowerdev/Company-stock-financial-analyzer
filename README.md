@@ -26,11 +26,6 @@ An AI-powered financial analysis tool that provides comprehensive stock market a
 pip install -r requirements.txt
 ```
 
-install the following packages:
-
-```bash
-pip install python-dotenv yfinance pandas numpy matplotlib fpdf langchain-openai
-```
 
 ## Environment Setup
 
@@ -90,4 +85,5 @@ The tool generates:
 ## License
 
 This project is for educational and personal use. Please respect API usage limits and terms of service.
+
 
