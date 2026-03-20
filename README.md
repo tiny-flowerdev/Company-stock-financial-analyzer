@@ -4,7 +4,7 @@ An AI-powered financial analysis tool that provides comprehensive stock market a
 
 ## Features
 
-- **Stock Data Retrieval**: Fetches historical stock data using Yahoo Finance
+- **Stock Data Retrieval**: Fetches historical stock data using Yahoo Finance.
 - **Technical Indicators**: Calculates RSI (Relative Strength Index) and MACD (Moving Average Convergence Divergence)
 - **AI Analysis**: Uses GPT-4o-mini to provide natural language interpretation of stock performance
 - **Visual Charts**: Generates price, volume, RSI, and MACD charts
